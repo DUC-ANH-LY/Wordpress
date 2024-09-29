@@ -10,3 +10,5 @@
 - Custom Post Type , mu-plugins
 - add_action hook
 - Custom Fields with acf plugins 
+- Professor upload image, crop image (plugin manual image crop), page banner (custom field)
+- Clean code , inject to functions.php or get_template_vars()
