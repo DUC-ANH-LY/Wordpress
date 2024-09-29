@@ -9,3 +9,4 @@
 - Customer queries (https://stackoverflow.com/questions/39729705/display-wordpress-posts-in-other-webpage)
 - Custom Post Type , mu-plugins
 - add_action hook
+- Custom Fields with acf plugins 
