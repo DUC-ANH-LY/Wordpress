@@ -5,4 +5,5 @@ where jquery library place in wordpres (wp-includes/js/jquery/jquery.js)
 page.php (https://chatgpt.com/c/66f9056d-60c8-8008-a35e-6d9fd02eb42d)
 ![img.png](img.png)
 setting frontpage '/home', post page to '/blog'
+archive.php for listing author , category post
 Customer queries (https://stackoverflow.com/questions/39729705/display-wordpress-posts-in-other-webpage)
